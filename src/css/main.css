@@ -1,0 +1,17 @@
+body {
+    background-color: #fff;
+}
+
+#simple {
+    padding-top: 3em;
+}
+
+.bg_red {
+    background-color: rgba(255, 0, 0, 0.5) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5) !important;
+}
+
+.bg_green {
+    background-color: rgba(0, 255, 21, 0.5) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5) !important;
+}
